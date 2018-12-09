@@ -29,6 +29,16 @@
     "eslint-loader": "^2.1.1",
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-vue": "^4.7.1",
-    "prettier": "^1.14.3"
+    "estraverse": "^4.2.0",
+    "esutils": "^2.0.2",
+    "is-fullwidth-code-point": "^2.0.0",
+    "levn": "^0.3.0",
+    "path-is-inside": "^1.0.2",
+    "pinkie-promise": "^2.0.1",
+    "prelude-ls": "^1.1.2",
+    "prettier": "^1.14.3",
+    "require-uncached": "^2.0.0",
+    "text-table": "^0.2.0",
+    "type-check": "^0.3.2"
   }
 }

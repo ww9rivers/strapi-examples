@@ -19,10 +19,28 @@
     "eslint-plugin-react": "^7.7.0"
   },
   "dependencies": {
+    "ecc-jsbn": "^0.2.0",
+    "escape-string-regexp": "^1.0.5",
+    "generate-object-property": "^1.2.0",
+    "has-ansi": "^3.0.0",
+    "has-flag": "^3.0.0",
+    "hawk": "^7.0.10",
+    "is-typedarray": "^1.0.0",
+    "isstream": "^0.1.2",
+    "json-stringify-safe": "^5.0.1",
+    "jsonpointer": "^4.0.1",
+    "jsprim": "^2.0.0",
     "lodash": "^4.17.5",
-    "strapi": "3.0.0-alpha.14.5",
+    "oauth-sign": "^0.9.0",
+    "readable-stream": "^3.0.6",
+    "stack-trace": "0.0.10",
+    "strapi": "^3.0.0-alpha.16",
     "strapi-hook-mongoose": "3.0.0-alpha.14.5",
-    "stripe": "^6.15.0"
+    "stripe": "^6.15.0",
+    "tweetnacl": "^1.0.0",
+    "user-home": "^2.0.0",
+    "user-home-cli": "^1.0.1",
+    "xtend": "^4.0.1"
   },
   "author": {
     "name": "lauriejim",
