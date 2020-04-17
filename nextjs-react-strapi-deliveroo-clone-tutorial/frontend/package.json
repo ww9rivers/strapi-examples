@@ -1,4 +1,7 @@
 {
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
@@ -20,5 +23,8 @@
     "reactstrap": "^6.5.0",
     "recompose": "^0.30.0",
     "strapi-sdk-javascript": "^0.3.0"
+  },
+  "engines": {
+    "node": "10.x.x"
   }
 }
